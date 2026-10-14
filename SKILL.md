@@ -1,6 +1,6 @@
 ---
 name: discover-skills
-description: 当用户需要寻找、比较或推荐开源项目、工具或 agent skills 时使用；默认通过 GitHub topics 发现候选，综合热度、架构、增长、Issue 处理和许可证进行筛选。
+description: 当用户需要寻找、比较或推荐开源项目、工具或 agent skills 时使用
 ---
 
 # Discover Skills
